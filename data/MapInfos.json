@@ -2,12 +2,12 @@
 null,
 {"id":1,"expanded":true,"name":"Library","order":2,"parentId":0,"scrollX":539.3333333333334,"scrollY":332},
 {"id":2,"expanded":true,"name":"Classroom","order":1,"parentId":0,"scrollX":539.3333333333334,"scrollY":332},
-{"id":3,"expanded":false,"name":"Hallway1","order":3,"parentId":0,"scrollX":534,"scrollY":345.3333333333333},
+{"id":3,"expanded":false,"name":"Hallway1","order":3,"parentId":0,"scrollX":2058,"scrollY":345.3333333333333},
 {"id":4,"expanded":false,"name":"Artroom","order":4,"parentId":0,"scrollX":539.3333333333334,"scrollY":332},
 {"id":5,"expanded":true,"name":"Classroom_Normal","order":5,"parentId":0,"scrollX":539.3333333333334,"scrollY":332},
 {"id":6,"expanded":false,"name":"Hallway2","order":6,"parentId":0,"scrollX":534,"scrollY":345.3333333333333},
-{"id":7,"expanded":false,"name":"Hallway3","order":7,"parentId":0,"scrollX":1962.6666666666667,"scrollY":345.3333333333333},
-{"id":8,"expanded":false,"name":"Hallway4","order":8,"parentId":0,"scrollX":2005.3333333333333,"scrollY":345.3333333333333},
-{"id":9,"expanded":false,"name":"Hallway5","order":9,"parentId":0,"scrollX":789.3333333333334,"scrollY":345.3333333333333},
-{"id":10,"expanded":false,"name":"Hallway6","order":10,"parentId":0,"scrollX":534,"scrollY":334.6666666666667}
+{"id":7,"expanded":false,"name":"Hallway3","order":7,"parentId":0,"scrollX":2058,"scrollY":345.3333333333333},
+{"id":8,"expanded":false,"name":"Hallway4","order":8,"parentId":0,"scrollX":2058,"scrollY":345.3333333333333},
+{"id":9,"expanded":false,"name":"Hallway5","order":9,"parentId":0,"scrollX":2058,"scrollY":345.3333333333333},
+{"id":10,"expanded":false,"name":"Hallway6","order":10,"parentId":0,"scrollX":2058,"scrollY":334.6666666666667}
 ]
